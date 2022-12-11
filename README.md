@@ -1,4 +1,4 @@
-<h1>Hi, I'm Insiya Shakir! <br/><a href="https://github.com/InsiyaShakir02">Odoo Developer</a>, <a href="www.linkedin.com/in/insiya-shakir-4176b21b3">Frontend Developer</a>, <a href="https://www.insiyashakir.tech/">Blogger</a></h1>
+<h1>Hi, I'm Insiya Shakir! <br/><a href="https://github.com/InsiyaShakir02"></a><a href="www.linkedin.com/in/insiya-shakir-4176b21b3">Odoo Developer</a>, <a href="https://www.insiyashakir.tech/">Tech Blogger</a></h1>
 
 
 
@@ -6,8 +6,8 @@
 
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="InsiyaShakir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="InsiyaShakir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: https://www.instagram.com/insiyashakir02/
