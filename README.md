@@ -5,6 +5,12 @@
 - <b>YouTube Downloader</b>
   - [Developed and Designed in Python](https://github.com/InsiyaShakir02/YouTube-Downloader-Window-Application)
 
+<h2> 💻 HTML/CSS Project:</h2>
+
+- <b>Kitchen Menu</b>
+  - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Projects)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 
