@@ -1,4 +1,4 @@
-<h1>Hi, I'm Insiya Shakir! <br/><a href="https://linkedin.com/in/insiya-shakir-4176b21b3">Software Developer</a>, <a href="https://www.insiyashakir.tech/">Tech Blogger</a></h1>
+<h1>Hi, I'm Insiya Shakir! <br/><a href="https://www.linkedin.com/in/insiya-shakir/">Software Developer</a>, <a href="https://www.insiyashakir.tech/">Tech Blogger</a></h1>
 
 <h2> 👨‍💻 Window Application Project:</h2>
 
@@ -21,7 +21,7 @@
 
 
 [instagram]: https://www.instagram.com/insiyashakir02/
-[linkedin]: www.linkedin.com/in/insiya-shakir
+[linkedin]: https://www.linkedin.com/in/insiya-shakir/
 [blog]: https://www.insiyashakir.tech/
 
 <!--
