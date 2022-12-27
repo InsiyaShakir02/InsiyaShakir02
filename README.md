@@ -21,7 +21,7 @@
 
 
 [instagram]: https://www.instagram.com/insiyashakir02/
-[linkedin]: https://linkedin.com/in/insiya-shakir-4176b21b3
+[linkedin]: www.linkedin.com/in/insiya-shakir
 [blog]: https://www.insiyashakir.tech/
 
 <!--
