@@ -8,7 +8,7 @@
 <h2> 💻 HTML/CSS/Javascript Project:</h2>
 
 - <b>Kitchen Menu</b>
-  - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Projects)
+  - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Projects/tree/main/html-css-kitchen-menu)
 - <b>QR Code</b>
   - [Developed and Designed in HTML-CSS-Javascript](https://github.com/InsiyaShakir02/HTML-CSS-Projects/tree/main/QR-Code)
 
