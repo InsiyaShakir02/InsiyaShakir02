@@ -10,7 +10,7 @@
 - <b>Kitchen Menu</b>
   - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Projects)
 - <b>QR Code</b>
-  - [Developed and Designed in HTML-CSS-Javascript](https://github.com/InsiyaShakir02/HTML-CSS-Projects)
+  - [Developed and Designed in HTML-CSS-Javascript](https://github.com/InsiyaShakir02/HTML-CSS-Projects/tree/main/QR-Code)
 
 
 <h2> 🤳 Connect with me:</h2>
