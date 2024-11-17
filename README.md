@@ -22,7 +22,7 @@
 
 [<img align="left" alt="InsiyaShakir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="InsiyaShakir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="InsiyaShakir | Blog" width="25px" src="https://icon-library.com/images/icon-blogger/icon-blogger-2.jpg"/>][blog]
+[<img align="left" alt="InsiyaShakir | Blog" width="25px" src="https://img.icons8.com/?size=100&id=110611&format=png&color=000000)" />][blog]
 
 
 [instagram]: https://www.instagram.com/_artistrybywords_/
