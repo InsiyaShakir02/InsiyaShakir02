@@ -25,9 +25,9 @@
 [<img align="left" alt="InsiyaShakir | Blog" width="25px" src="https://icon-library.com/images/icon-blogger/icon-blogger-2.jpg"/>][blog]
 
 
-[instagram]: https://www.instagram.com/insiyashakir02/
+[instagram]: https://www.instagram.com/_artistrybywords_/
 [linkedin]: https://www.linkedin.com/in/insiya-shakir/
-[blog]: https://www.insiyashakir.tech/
+[blog]: https://medium.com/@insiyashakir215
 
 <!--
 **InsiyaShakir02/InsiyaShakir02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
