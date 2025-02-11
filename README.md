@@ -14,6 +14,8 @@
   - [Developed and Designed in HTML-CSS-Javascript](https://github.com/InsiyaShakir02/HTML-CSS-Projects/tree/main/QR-Code)
 - <b>Chess Board</b>
   - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Javascript-Projects/tree/main/chessboard)
+- <b>Carrom Board</b>
+  - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Javascript-Projects/tree/main/carromboard)
 
 
 
