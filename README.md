@@ -16,9 +16,11 @@
   - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Javascript-Projects/tree/main/chessboard)
 - <b>Carrom Board</b>
   - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Javascript-Projects/tree/main/carromboard)
+    
 - <b>Static Website for LifeStyle and Fashion Week</b>
   - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Javascript-Projects/tree/main/lifestyle%20and%20living)
-
+- <b>Video Project of New Year 2025</b>
+  - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Javascript-Projects/tree/main/New%20year%20project%202025)
 
 
 
