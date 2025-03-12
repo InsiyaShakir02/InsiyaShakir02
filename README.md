@@ -1,6 +1,10 @@
 <h1>Hi, I'm Insiya Shakir! <br/><a href="https://www.linkedin.com/in/insiya-shakir/">Frontend Developer</a>, <a href="https://www.insiyashakir.tech/">Content Writer</a></h1>
 
 <h2> 👧 Personal Portfolio:</h2>
+
+- <b>My Portfolio</b>
+  - [Built and Designed in HTML-CSS-JavaScript-BootStrap](https://github.com/InsiyaShakir02/personal-portfolio/tree/main/my-portfolio)
+
 <h2> 👨‍💻 Window Application Project:</h2>
 
 - <b>YouTube Downloader</b>
