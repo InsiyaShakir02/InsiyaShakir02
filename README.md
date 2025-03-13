@@ -12,6 +12,8 @@
 
 <h2> 💻 HTML/CSS/Javascript Project:</h2>
 
+- <b>GYM-Club Website</b>
+  - [Built and Designed in HTML-CSS-Javascript-BootStrap](https://github.com/InsiyaShakir02/HTML-CSS-Javascript-Projects/tree/main/GYM-Club-Website)
 - <b>Kitchen Menu</b>
   - [Developed and Designed in HTML-CSS](https://github.com/InsiyaShakir02/HTML-CSS-Projects/tree/main/html-css-kitchen-menu)
 - <b>QR Code</b>
